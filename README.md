@@ -19,7 +19,7 @@
 
 ## 截图
 
-| 聊天主界面 | 侧边栏 |
+| 压缩上下文记忆 | 聊天界面 |
 |:---:|:---:|
 | ![聊天](screenshots/01_chat_main.jpg) | ![侧边栏](screenshots/02_sidebar.jpg) |
 
