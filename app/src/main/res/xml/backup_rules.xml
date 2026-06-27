@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="file" path="chat_store/" />
+    <exclude domain="cache" path="import_tmp/" />
+    <exclude domain="cache" path="export_tmp/" />
+</full-backup-content>
