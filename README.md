@@ -23,7 +23,7 @@
 |:---:|:---:|
 | ![聊天](screenshots/01_chat_main.jpg) | ![侧边栏](screenshots/02_sidebar.jpg) |
 
-| 推理过程展示 | 导入 DeepSeek 对话 |
+| 角色设定 | 侧边栏 |
 |:---:|:---:|
 | ![推理](screenshots/04_reasoning.jpg) | ![导入](screenshots/03_import.jpg) |
 
